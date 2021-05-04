@@ -12,7 +12,7 @@ This package provides an object-oriented API for use with the WordPress [Plugin 
 You can install the package via composer:
 
 ```bash
-composer require digitalbitdev/hooks
+composer require amphibee/hookable
 ```
 
 ## Usage

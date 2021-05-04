@@ -1,5 +1,5 @@
 {
-    "name": "amphibee/hooks",
+    "name": "amphibee/hookable",
     "description": "An object-oriented package for the WordPress Plugin API.",
     "keywords": [
         "hooks",
